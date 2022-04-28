@@ -132,3 +132,16 @@ footer{
 	border: 1px solid white;
 
 }
+
+/*recapiti*/
+
+.recap{
+	background-color: aquamarine;
+	margin-top:20px ;
+	margin-left: 450px;
+	margin-right: 450px;
+	padding: 10 0px;
+	display: flex;
+	justify-content: space-between;
+}
+
