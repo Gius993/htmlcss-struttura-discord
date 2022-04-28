@@ -59,3 +59,24 @@ li{
 	height: 300px;
 	background-color: rgb(223, 98, 171);
 }
+
+/*main*/
+
+.neutral{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 30px;
+}
+
+.blu{
+	width: 600px;
+	height: 400px;
+	background-color: rgb(121, 147, 248);
+}
+
+.pink{
+	width: 400px;
+	height: 400px;
+	background-color: pink;
+}
