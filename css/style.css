@@ -3,3 +3,17 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+ /* area 1*/
+header{
+	background-color:rgb(0, 0, 107) ;
+}
+
+.menù{
+	height: 80px;
+	background-color: lightblue;
+}
+
+.pubblicita{
+	height: 400px;
+	
+}
