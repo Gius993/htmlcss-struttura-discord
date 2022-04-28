@@ -102,3 +102,33 @@ li{
 	height: 700px;
 	background-color: green;
 }
+
+/*inizio footer*/
+
+footer{
+	background-color: black;
+}
+
+.imag{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px 450px;
+	border-bottom: 1px solid white;
+}
+
+.violp{
+	width: 500px;
+	height: 400px;
+	background-color: palevioletred;
+	border: 1px solid white;
+	
+}
+
+.acquam{
+	width: 400px;
+	height: 400px;
+	background-color: aquamarine;
+	border: 1px solid white;
+
+}
