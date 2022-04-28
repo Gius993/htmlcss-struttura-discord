@@ -80,3 +80,25 @@ li{
 	height: 400px;
 	background-color: pink;
 }
+
+.sfondo{
+	height: 500px;
+	background-color: lightgray;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.greyandgreen{
+	height: 800px;
+	background-color: lightgrey;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.green{
+	width: 1000px;
+	height: 700px;
+	background-color: green;
+}
