@@ -11,6 +11,8 @@ header{
 .menù{
 	height: 80px;
 	background-color: lightblue;
+	display: flex;
+	padding: 25px;
 }
 
 .pubblicita{
@@ -18,12 +20,9 @@ header{
 	
 }
 
-.menù{
-	display: flex;
-	padding: 20px;
 	
 	
-}
+
 
 .link{
 	display: flex;
@@ -31,11 +30,22 @@ header{
 	list-style-type: none;
 	width: 60%;
 	background-color: orange;
+	justify-content: center;
+	
 }
-
+li{
+	padding: 0 8px;
+}
 .logo{
 	border: 1px solid black;
-	width:  40%;
+	width:  20%;
 	background-color: orange;
+	
 
+}
+.logo-a{
+	text-align: end;
+	border: 1px solid black;
+	width:  20%;
+	background-color: orange;
 }
